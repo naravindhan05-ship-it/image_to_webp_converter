@@ -39,7 +39,7 @@ The app features a clean, modern interface with:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/naravindhan05-ship-it/image_to_webp_converter.git
    cd image_to_webp_converter
    ```
 
